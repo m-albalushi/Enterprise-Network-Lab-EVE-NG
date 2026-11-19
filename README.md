@@ -21,7 +21,7 @@ A personal lab I built in EVE-NG to practise enterprise network design and firew
 
 ## Tools
 
-EVE-NG, Cisco IOS switches, Palo Alto VM-Series, FortiGate VM.
+EVE-NG, Cisco IOS /IOL switches, Palo Alto VM-Series, FortiGate VM.
 
 ## Status
 
