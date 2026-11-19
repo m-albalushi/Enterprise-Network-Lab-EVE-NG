@@ -4,7 +4,7 @@ A personal lab I built in EVE-NG to practise enterprise network design and firew
 
 ## Topology
 
-![Topology](topology.png)
+![Topology](Topology/topology.png)
 
 ## What I built
 
